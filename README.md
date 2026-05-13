@@ -48,7 +48,7 @@ AI agents can restart, reread the repository, and continue working without relyi
 
 ---
 
-# What’s Included
+# What's Included
 
 ```txt id="m9h6oi"
 ai/
@@ -180,12 +180,12 @@ The AI will:
 
 ```txt id="mlxb9m"
 Work in AI session
-→ update project files
-→ commit
-→ push
-→ open new session when context gets large
-→ AI rereads repository context
-→ continue
+-> update project files
+-> commit
+-> push
+-> open new session when context gets large
+-> AI rereads repository context
+-> continue
 ```
 
 ---
