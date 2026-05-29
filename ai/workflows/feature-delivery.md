@@ -18,13 +18,15 @@ Feature work should not start with code. It should move through scope, impact an
 
 ## Steps
 
-1. Product Manager clarifies scope.
-2. UX Researcher or UI Designer reviews user impact if needed.
-3. Tech Architect reviews architecture impact.
-4. Developer creates implementation plan.
-5. Developer implements feature.
-6. QA validates functionality.
-7. Orchestrator updates backlog and decisions.
+1. If the request is still exploratory, use `ai/workflows/brainstorm-to-build.md` first.
+2. Product Manager clarifies scope.
+3. UX Researcher or UI Designer reviews user impact if needed.
+4. Tech Architect reviews architecture impact.
+5. Developer creates implementation plan.
+6. Developer implements feature.
+7. QA validates functionality.
+8. Orchestrator updates backlog and decisions.
+9. Commit the completed slice unless the user explicitly asks not to.
 
 ## Expected output
 
